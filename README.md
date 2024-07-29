@@ -31,23 +31,23 @@
 <br/>
 
 ## 🤖 스터디 멤버
-<!--강수진, 문종하, 박성문, 박수양, 서주원, 이시호-->
+<!--강수진, 문종하, 박성문, 박수양, 정예영, 한재서-->
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/강수진"><img src="https://avatars.githubusercontent.com/강수진" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/kkangssu"><img src="https://avatars.githubusercontent.com/kkangssu" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/QQQomputer"><img src="https://avatars.githubusercontent.com/QQQomputer" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/박성문"><img src="https://avatars.githubusercontent.com/박성문" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/박수양"><img src="https://avatars.githubusercontent.com/박수양" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/서주원"><img src="https://avatars.githubusercontent.com/서주원" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/이시호"><img src="https://avatars.githubusercontent.com/이시호" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/SungMoonPark"><img src="https://avatars.githubusercontent.com/SungMoonPark" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/clapsheep"><img src="https://avatars.githubusercontent.com/clapsheep" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/EliteZer0"><img src="https://avatars.githubusercontent.com/EliteZer0" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/한재서"><img src="https://avatars.githubusercontent.com/한재서" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><b>강수진</b></a></td>
+    <td align="center"><a href="https://github.com/kkangssu"><b>kkangssu</b></a></td>
     <td align="center"><a href="https://github.com/QQQomputer"><b>QQQomputer</b></a></td>
-    <td align="center"><a href="https://github.com/박성문"><b>박성문</b></a></td>
-    <td align="center"><a href="https://github.com/박수양"><b>박수양</b></a></td>
-    <td align="center"><a href="https://github.com/서주원"><b>서주원</b></a></td>
-    <td align="center"><a href="https://github.com/이시호"><b>이시호</b></a></td>
+    <td align="center"><a href="https://github.com/SungMoonPark"><b>SungMoonPark</b></a></td>
+    <td align="center"><a href="https://github.com/clapsheep"><b>clapsheep</b></a></td>
+    <td align="center"><a href="https://github.com/EliteZer0"><b>EliteZer0</b></a></td>
+    <td align="center"><a href="https://github.com/한재서"><b>한재서</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/java-FF9E0F?style=for-the-badge&logo=OpenJDK&logoColor=white"></td>
