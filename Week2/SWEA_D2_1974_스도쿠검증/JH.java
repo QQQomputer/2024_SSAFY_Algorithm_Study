@@ -1,4 +1,4 @@
-package SWEA_D2_1974_수도쿠검증;
+package SWEA_D2_1974_스도쿠검증;
 
 import java.io.BufferedReader;
 import java.io.IOException;
