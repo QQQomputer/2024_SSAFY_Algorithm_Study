@@ -1,7 +1,10 @@
-import java.util.*;
-import java.io.*;
+package SWEA_D2_1204_최빈수구하기;
 
-class Solution
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+class Q1859
 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();

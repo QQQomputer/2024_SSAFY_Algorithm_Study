@@ -1,7 +1,9 @@
+package SWEA_D2_1954_달팽이숫자;
+
 import java.util.*;
 import java.io.*;
 
-class Solution
+class Solution_JH4
 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();

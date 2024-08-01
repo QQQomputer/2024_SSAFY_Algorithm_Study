@@ -1,7 +1,9 @@
+package SWEA_D2_1859_백만장자;
+
 import java.util.*;
 import java.io.*;
 
-class Solution
+class Solution_JH2
 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
@@ -46,7 +48,7 @@ class Solution
             
             int start = idx+1;
             
-			while(start<N){				
+			while(start<N){	
                 max = 0;              
                 for(int n = start; n < N; n++){
                 	int price = (int)(arr[n]-arr[n-1]);

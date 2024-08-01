@@ -1,7 +1,9 @@
+package SWEA_D2_1926_간단한369게임;
+
 import java.util.*;
 import java.io.*;
 
-class Main
+class Solution_JH3
 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
