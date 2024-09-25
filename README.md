@@ -1,14 +1,14 @@
 <!--
 # 2024 - Samsung Software Academy For Youth 
-# Algorithm Study - For IM Test
+# Algorithm Study - For Pro Test
 -->
 
-# 😃 알고리즘 스터디 - IM 테스트 대비
+# 😃 알고리즘 스터디 - SW역량 테스트 대비
 
 <table>
   <tr>
     <td>진행 기간</td>
-    <td>2024년 7월 18일 ~ IM 취득까지</td>
+    <td>2024년 7월 18일 ~ Pro 취득까지</td>
   </tr>
   <tr>
     <td>스터디 장소</td>
@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>목요일 18:20 ~ ??:00 [?h] <br> 모르는 것 언제나 서로에게 물어보기</td>
+    <td>목요일 18:20 ~ 20:00 [1h 40m] <br> 모르는 것 언제나 서로에게 물어보기</td>
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -25,6 +25,10 @@
   <tr>
     <td>언어</td>
     <td><img src="https://img.shields.io/badge/java-FF9E0F?style=for-the-badge&logo=OpenJDK&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td>성과</td>
+    <td>2024년 9월 09일 - A 취득<br>2024년 8월 19일 - IM 취득</td>
   </tr>
 </table>
 
